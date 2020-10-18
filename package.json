@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-using-express",
+  "version": "1.0.0",
+  "description": "Using static files with Express, using route parameters.  Using Express, using route parameters, using query strings.  using static files with Express: the folder 'static' contains index.html.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Saif",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "expressjs": "^1.0.1"
+  }
+}
